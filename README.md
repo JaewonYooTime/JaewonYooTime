@@ -2,7 +2,7 @@
 
 <img align="left" style="width: 44%; display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaewonyootime&show_icons=true&locale=en&layout=compact" alt="jaewonyootime" />  
 
-<img align="left" style="width: 48%; display: inline;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewonyootime"  />  
+
 
 <h2 align='center'>A passionate frontend developer from South Korea</h2>
 
