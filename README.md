@@ -3,7 +3,7 @@
 	<img style="width: 48%; display: inline-block;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewonyootime"  />  
 </p>
 
-<h2 align='center'>A passionate frontend developer from South Korea</h2>
+<h2 align='center'>A passionate developer from South Korea</h2>
 
 <h1>Statistics</h1> 
 
